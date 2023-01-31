@@ -1,25 +1,27 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Dr. Elise Berlan
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Director of BC4Teens Research Lab
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: The Ohio State University
+    url: ''
+  - name: Nationwide Children's Hospital
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Dr. Berlan is the leader of this research group. Yada yada.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Adolescent Medicine
+  - Contraception Access
+  - Reproductive Justice
 
 education:
   courses:
