@@ -3,25 +3,25 @@
 title: Dr. Alicia Bunger
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Director of BC4Teens Research Lab
+role: Professor
 
 # Organizations/Affiliations
 organizations:
   - name: The Ohio State University
     url: ''
-  - name: Nationwide Children's Hospital
-    url: ''
+  # - name: Nationwide Children's Hospital
+  #   url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Dr. Berlan is the leader of this research group. Yada yada.
+bio: Dr. Bunger is the implementation brain of the group. 
 
 interests:
-  - Adolescent Medicine
-  - Contraception Access
-  - Reproductive Justice
+  - Implementation Science
+  - Organizational Change
+  - Systems
 
 education:
   courses:
