@@ -15,14 +15,14 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the group
+    - title: This could be our website!
       content: Take a look at what we're working on...
       align: center
       background:
         position: right
         color: '#666'
         brightness: 0.7
-        media: coders.jpg
+        media: welcomephoto.jpg
     - title: Lunch & Learn ☕️
       content: 'Share your knowledge with the group and explore exciting new topics together!'
       align: left
