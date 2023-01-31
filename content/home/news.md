@@ -4,7 +4,7 @@ widget: pages
 headless: true
 weight: 20
 
-title: Latest News
+title: The Amazing Things We are Doing
 subtitle:
 
 content:
@@ -17,7 +17,7 @@ content:
     tag: ''
   offset: 0
   order: desc
-  page_type: post
+  page_type: projects
 design:
   view: 3
   columns: '1'
