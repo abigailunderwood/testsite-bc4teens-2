@@ -10,7 +10,7 @@ role: Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: The Ohio State University, College of Social Work
+  - name: The Ohio State University
     url: ''
   # - name: Nationwide Children's Hospital
   #   url: ''
