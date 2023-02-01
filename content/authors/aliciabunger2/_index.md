@@ -19,9 +19,9 @@ organizations:
 bio: Dr. Bunger is the implementation brain of the group. 
 
 interests:
-  - Adolescent Medicine
-  - Contraception Access
-  - Reproductive Justice
+  - Implementation Science
+  - Organizational Change
+  - Systems
 
 education:
   courses:

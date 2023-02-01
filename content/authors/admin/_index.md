@@ -16,7 +16,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Dr. Berlan is the leader of this research group. Yada yada.
+bio: Dr. Berlan is the leader of this research group. 
 
 interests:
   - Adolescent Medicine
