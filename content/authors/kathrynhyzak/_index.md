@@ -70,6 +70,4 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Kathryn A. Hyzak, PhD, MSW is the Provost's Fellow-to-Assistant Professor Research Faculty member in the Department of Physical Medicine & Rehabilitation in the College of Medicine at The Ohio State University. As an Implementation Scientist, her research aims to expedite the pace at which interventions are used in real-world treatment settings to improve care for individuals with complex health comorbidities.
