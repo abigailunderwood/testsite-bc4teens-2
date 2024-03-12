@@ -10,14 +10,13 @@ role: Researcher
 
 # Organizations/Affiliations
 organizations:
-  - name: The Ohio State University
+  - name: The Ohio State University, College of Medicine
     url: ''
   # - name: Nationwide Children's Hospital
   #   url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Dr. Hyzak is on the implementation team 
-
+bio: Dr. Hyzak is on the Implementation Science Team
 interests:
   - Implementation Science
   - Healthcare Systems
