@@ -15,7 +15,7 @@ design:
 
 content:
   slides:
-    - title: This could be our website!
+    - title: ARISE Lab
       content: Take a look at what we're working on...
       align: center
       background:
