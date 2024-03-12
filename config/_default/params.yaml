@@ -6,8 +6,7 @@
 # Appearance
 
 appearance:
-  mode: light
-  color: green
+  theme: green
   font: native
   font_size: L
 
