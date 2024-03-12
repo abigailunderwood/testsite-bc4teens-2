@@ -1,6 +1,6 @@
 ---
 title: ARISE Team Publishes CC@BHP Blueprint in GIRA
-date: 2025-05-12
+date: 2023-12-05
 ---
 
 We are excited to share our new manuscript!
