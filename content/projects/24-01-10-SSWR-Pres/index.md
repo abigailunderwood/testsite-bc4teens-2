@@ -1,11 +1,11 @@
 ---
-title: Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020
-date: 2020-12-02
+title: Underwood Presents CC@BHP Research at SSWR
+date: 2024-01-11
 image:
   focal_point: 'top'
 ---
 
-Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.
+Abigail Underwood presents ARISE Lab Research at the Society for Social Work Research Conference in Washington D.C.
 
 <!--more-->
 
