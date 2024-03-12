@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Kathryn Hyzak
+title: Dr. Ashley Ebersole
 
 # Is this the primary user of the site?
 superuser: false
@@ -10,16 +10,17 @@ role: Researcher
 
 # Organizations/Affiliations
 organizations:
+  - name: Nationwide Children's Hospital, Department of Adolescent Medicine
+     url: ''
   - name: The Ohio State University, College of Medicine
     url: ''
-  # - name: Nationwide Children's Hospital
-  #   url: ''
+
 
 # Short bio (displayed in user profile at end of posts)
-bio: Dr. Hyzak is on the Implementation Science Team
+bio: Dr. Ebersole leads the Link2BC project
 interests:
-  - Implementation Science
-  - Healthcare Systems
+  - Adolescent Medicine
+  - Health Care Integration 
   # - 
 
 education:
@@ -69,4 +70,4 @@ user_groups:
   - Researchers
 ---
 
-Kathryn A. Hyzak, PhD, MSW is the Provost's Fellow-to-Assistant Professor Research Faculty member in the Department of Physical Medicine & Rehabilitation in the College of Medicine at The Ohio State University. As an Implementation Scientist, her research aims to expedite the pace at which interventions are used in real-world treatment settings to improve care for individuals with complex health comorbidities.
+Dr. Ashley Ebersole MD, MS, FAAP is a Co-Investigator on the Link2BC project. She received her MD from Vanderbilt University School of Medicine. She is an Assistant Professor in the Department of Pediatrics at The Ohio State University College of Medicine and faculty physician in the Division of Adolescent Medicine at Nationwide Children's Hospital. Her research focuses on preventative medicine for adolescents and young adults including substance use screening and access to contraception.
