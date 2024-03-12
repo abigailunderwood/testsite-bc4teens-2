@@ -11,7 +11,7 @@ role: Researcher
 # Organizations/Affiliations
 organizations:
   - name: Nationwide Children's Hospital, Department of Adolescent Medicine
-     url: ''
+    url: ''
   - name: The Ohio State University, College of Medicine
     url: ''
 

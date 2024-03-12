@@ -10,10 +10,8 @@ role: Researcher
 
 # Organizations/Affiliations
 organizations:
-  #- name: The Ohio State University, College of Medicine
-  # url: ''
   - name: Nationwide Children's Hospital
-     url: ''
+    url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: Dr. Kerlek is a pediatric psychiatrist
