@@ -9,7 +9,7 @@ weight: 10 # Order that this section will appear.
 title: |
   <b>ARISE</b>:
   <b>A</b>dolescent <b>R</b>eproductive health  
-  and <b>I<b/>mplementation <b>S</b>cienc<b>E</b> Lab
+  and <b>I</b>mplementation <b>S</b>cienc<b>E</b> Lab
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
