@@ -7,8 +7,9 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  BC4Teens  
-  Research Group
+  *ARISE*:
+  *A*dolescent *R*eproductive health  
+  and *I*mplementation *S*cienc*E* Lab
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -20,4 +21,4 @@ design:
 
 <br>
 
-The **BC4Teens Research Group** does awesome research!
+ARISE conducts rigorous and innovative research to advance adolescent sexual and reproductive health and wellbeing and adolescent sexual and reproductive equity. Our focus since the collaborative launched in 2020 is on improving adolescents’ access to high quality contraception care in non-traditional clinical settings. Our approach draws on principles of implementation science, interdisciplinarity, and centers reproductive agency, autonomy, and equity.
