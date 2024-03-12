@@ -69,4 +69,4 @@ user_groups:
   - Researchers
 ---
 
-Kathryn A. Hyzak, PhD, MSW is the Provost's Fellow-to-Assistant Professor Research Faculty member in the Department of Physical Medicine & Rehabilitation in the College of Medicine at The Ohio State University. As an Implementation Scientist, her research aims to expedite the pace at which interventions are used in real-world treatment settings to improve care for individuals with complex health comorbidities.
+Dr. Kathryn A. Hyzak, PhD, MSW is the Provost's Fellow-to-Assistant Professor Research Faculty member in the Department of Physical Medicine & Rehabilitation in the College of Medicine at The Ohio State University. As an Implementation Scientist, her research aims to expedite the pace at which interventions are used in real-world treatment settings to improve care for individuals with complex health comorbidities.

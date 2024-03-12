@@ -70,4 +70,4 @@ user_groups:
   - Principal Investigators
 ---
 
-Elise D. Berlan, MD, MPH is the Principal Investigator for the Link2BC project. She is Professor in the Department of Pediatrics at The Ohio State University College of Medicine and faculty physician at Nationwide Children's Hospital. Her research focuses on improving adolescents’ access to high-quality contraceptive care in diverse clinical settings.
+Dr. Elise D. Berlan, MD, MPH is the Principal Investigator for the Link2BC project. She is Professor in the Department of Pediatrics at The Ohio State University College of Medicine and faculty physician at Nationwide Children's Hospital. Her research focuses on improving adolescents’ access to high-quality contraceptive care in diverse clinical settings.
