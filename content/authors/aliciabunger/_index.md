@@ -6,7 +6,7 @@ title: Dr. Alicia Bunger
 superuser: false
 
 # Role/position
-role: Professor
+role: Co-Director of ARISE Lab
 
 # Organizations/Affiliations
 organizations:
