@@ -7,11 +7,11 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  <b>A</b>dolescent 
-  <b>R</b>eproductive health 
-  and 
-  <b>I</b>mplementation 
-  <b>S</b>cienc<b>E</b> 
+  <b>A</b>dolescent<br> 
+  <b>R</b>eproductive health <br>
+  and <br>
+  <b>I</b>mplementation <br> 
+  <b>S</b>cienc<b>E</b> <br>
   Lab
 hero_media: welcome.jpg
 design:
