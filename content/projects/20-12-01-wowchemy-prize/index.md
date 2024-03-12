@@ -1,14 +1,16 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
-date: 2020-12-01
+title: ARISE Team Publishes CC@BHP Blueprint in GIRA
+date: 2025-05-12
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+We are excited to share our new manuscript!
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+Abstract: Implementation blueprints are comprehensive plans that describe implementation strategies, goals, timelines, and key personnel necessary for launching new interventions. Although blueprints are a foundational step in driving intervention rollout, little is known about how blueprints are developed, refined, and used in practice. The objective of this study was to describe a systematic, collaborative approach to developing, refining, and utilizing a formal implementation blueprint for scaling up the Contraception Care at Behavioral Health Pavilion (CC@BHP) intervention for adolescents hospitalized in psychiatric units within a pediatric hospital in the United States. 
 
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
+In Stage 1 (Planning/Preparation), we assembled a Research Advisory Board (RAB) of 41 multidisciplinary members and conducted a formative evaluation to identify potential barriers to CC@BHP implementation. Barriers were mapped to implementation strategies using the Consolidated Framework for Implementation Research (CFIR) and Expert Recommendations for Implementing Change (ERIC) tool and used to create an initial blueprint. 
 
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
+In Stage 2 (Development/Implementation), RAB members used activity logs to track implementation activities over the 18-month study period, which were then mapped to formal implementation strategies used to further develop the blueprint. About 30% of strategies were situated in the ‘Train and Educate Stakeholders’ ERIC category, 20% in ‘Use Evaluative and Iterative Strategies,’ and 16% in ‘Develop Stakeholder Interrelationships’ category. In Stage 3 (Synthesis/Refinement), the final blueprint was refined, consisting of 16 goals linked to 10 strategies for pre-implementation and 6 strategies for implementation. Feedback on the blueprint emphasized the role of the project champion in translating the blueprint into smaller, actionable steps for implementers.
+
+Click <a hred=https://link-springer-com.proxy.lib.ohio-state.edu/article/10.1007/s43477-023-00082->here</a> to read the open access paper! 
