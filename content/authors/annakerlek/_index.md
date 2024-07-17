@@ -22,33 +22,33 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Doctor of Medicine
+      institution: University of Cincinnati College of Medcine 
+#      year: 2012
+#    - course: MEng in Artificial Intelligence
+#      institution: Massachusetts Institute of Technology
+#      year: 2009
+#    - course: BSc in Artificial Intelligence
+#      institution: Massachusetts Institute of Technology
+#      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+#social:
+#  - icon: envelope
+#    icon_pack: fas
+#    link: 'mailto:test@example.org'
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/GeorgeCushen
+#  - icon: google-scholar
+#    icon_pack: ai
+#    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#  - icon: github
+#   icon_pack: fab
+#    link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,4 +67,4 @@ user_groups:
   - Researchers
 ---
 
-Dr. Anna Kerlek is
+Dr. Anna Kerlek is an Associate Professor of Psychiatry, specializing in child and adolescent psychiatry at Nationwide Children’s Hospital. She spends her clinical time providing care on the adolescent inpatient psychiatric unit at Nationwide Children’s Hospital, as the Medical Director of that unit. In addition, Dr. Kerlek directs the child and adolescent psychiatry fellowship training program at The Ohio State University and Nationwide Children's Hospital. Nationally, she is involved in the American Association of Child and Adolescent Psychiatry (AACAP) as the Co-Chair of the Inpatient, Residential and Partial Hospitalization Committee and is a member of the Child Maltreatment and Violence Committee. Also, as a member of the Recruitment Committee, and prior member of the Executive Committee, she continues to contribute to the mission and vision of the American Association of Directors of Psychiatric Training (AADPRT). In recent years, Dr. Kerlek collaborated with experts in the field of sexual and reproductive health and is passionate about providing necessary medical care to all youth. She believes that this interprofessional work can lead to better health outcomes in vulnerable youth.
