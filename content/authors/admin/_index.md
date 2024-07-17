@@ -27,10 +27,10 @@ education:
   courses:
     - course: Doctor of Medicine
       institution: University of Iowa School of Medicine
-      year: 2000
+    #  year: 2000
     - course: Master of Public Health
       institution: Harvard School of Public Health
-      year: 2007
+    #  year: 2007
     #- course: BSc in Artificial Intelligence
      # institution: Massachusetts Institute of Technology
       #year: 2008
