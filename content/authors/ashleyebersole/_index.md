@@ -27,7 +27,7 @@ education:
   courses:
     - course: Doctor of Medicine
       institution: Vanderbilt University School of Medicine
-      year: 2012
+#      year: 2012
 #    - course: MEng in Artificial Intelligence
 #      institution: Massachusetts Institute of Technology
 #      year: 2009
