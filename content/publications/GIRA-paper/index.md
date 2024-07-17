@@ -35,8 +35,8 @@ tags:
 featured: true
 
 links:
-  - name: Link
-    url: https://doi.org/10.1007/s43477-023-00082-7
+  - name: Blueprint
+    url: ''
 # url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 # url_code: '#'
 # url_dataset: '#'

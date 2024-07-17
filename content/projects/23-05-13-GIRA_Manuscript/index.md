@@ -13,4 +13,4 @@ In Stage 1 (Planning/Preparation), we assembled a Research Advisory Board (RAB) 
 
 In Stage 2 (Development/Implementation), RAB members used activity logs to track implementation activities over the 18-month study period, which were then mapped to formal implementation strategies used to further develop the blueprint. About 30% of strategies were situated in the ‘Train and Educate Stakeholders’ ERIC category, 20% in ‘Use Evaluative and Iterative Strategies,’ and 16% in ‘Develop Stakeholder Interrelationships’ category. In Stage 3 (Synthesis/Refinement), the final blueprint was refined, consisting of 16 goals linked to 10 strategies for pre-implementation and 6 strategies for implementation. Feedback on the blueprint emphasized the role of the project champion in translating the blueprint into smaller, actionable steps for implementers.
 
-Click <a hred=https://link-springer-com.proxy.lib.ohio-state.edu/article/10.1007/s43477-023-00082->here</a> to read the open access paper! 
+Visit the Publications tab to find the open access paper!
