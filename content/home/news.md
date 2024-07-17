@@ -4,7 +4,7 @@ widget: pages
 headless: true
 weight: 20
 
-title: The Amazing Things We are Doing
+title: Learn More about Our Work
 subtitle:
 
 content:

@@ -6,7 +6,7 @@ title: Dr. Elise Berlan
 superuser: true
 
 # Role/position
-role: Director of BC4Teens Research Lab
+role: Director of ARISE Lab
 
 # Organizations/Affiliations
 organizations:
@@ -16,7 +16,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Dr. Berlan is the leader of this research group. 
+bio: Dr. Berlan is the leader of the ARISE Lab
 
 interests:
   - Adolescent Medicine
@@ -70,6 +70,4 @@ user_groups:
   - Principal Investigators
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dr. Elise D. Berlan, MD, MPH is the Principal Investigator for the Link2BC project. She is Professor in the Department of Pediatrics at The Ohio State University College of Medicine and faculty physician at Nationwide Children's Hospital. Her research focuses on improving adolescents’ access to high-quality contraceptive care in diverse clinical settings.

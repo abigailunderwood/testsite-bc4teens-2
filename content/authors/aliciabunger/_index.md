@@ -6,11 +6,11 @@ title: Dr. Alicia Bunger
 superuser: false
 
 # Role/position
-role: Professor
+role: Co-Director of ARISE Lab
 
 # Organizations/Affiliations
 organizations:
-  - name: The Ohio State University
+  - name: The Ohio State University College of Medicine
     url: ''
   # - name: Nationwide Children's Hospital
   #   url: ''
@@ -70,6 +70,4 @@ user_groups:
   - Principal Investigators
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dr. Alicia Bunger, MSW, PhD is a Professor of General Internal Medicine in the Department of Internal Medicine at The Ohio State University's College of Medicine. Her research focuses on implementation of evidence-based interventions that align services across systems for children and families. 
